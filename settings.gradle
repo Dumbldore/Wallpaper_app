@@ -1,0 +1,2 @@
+rootProject.name = "Tapety"
+include ':app'
